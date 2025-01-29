@@ -39,3 +39,5 @@ A dashboard foi projetada para responder as seguintes perguntas:
 3. Para visualizar os dados de diferentes períodos ou categorias, basta selecionar os filtros apropriados e as tabelas serão atualizadas automaticamente.
 
 ## Dashboard
+
+![Dashboard Screenshot](Screenshot 2025-01-28 at 22.19.48.png)
