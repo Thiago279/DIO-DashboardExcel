@@ -40,4 +40,4 @@ A dashboard foi projetada para responder as seguintes perguntas:
 
 ## Dashboard
 
-![Dashboard Screenshot]([Screenshot 2025-01-28 at 22.19.48.png](https://github.com/Thiago279/DIO-DashboardExcel/blob/main/Screenshot%202025-01-28%20at%2022.19.48.png))
+![Dashboard Screenshot](https://github.com/Thiago279/DIO-DashboardExcel/blob/main/Screenshot%202025-01-28%20at%2022.19.48.png)
